@@ -1,5 +1,3 @@
-# ahsankhan26.github.io
+# https://abinator-1308.github.io/portfolio/
 
-Personal Static Website
-
-[ahsankhan.me](https://ahsankhan.me)
+Portfolio website
